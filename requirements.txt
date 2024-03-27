@@ -1,5 +1,5 @@
 openai
-transformers==4.24.0
+transformers==4.36.0
 beir==1.0.1
 datasets
 tqdm
